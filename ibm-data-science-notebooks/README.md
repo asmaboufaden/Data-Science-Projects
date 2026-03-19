@@ -1,4 +1,4 @@
-# ibm-data-science-notebooks
+# IBM-data-science-notebooks
 My notebooks from the IBM Data Science Certificate Professional - Coursera
 
 ## 📚 Modules 
