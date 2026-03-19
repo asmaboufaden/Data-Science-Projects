@@ -1,22 +1,21 @@
-# Applied-Data-Science-Case-Studies
+# Data-Science-Projects
 
-Applied Data Science Case Studies is a curated portfolio that brings together all projects completed during professional certifications and real-world personal freelance engagements. It showcases practical applications of data science, machine learning, and analytics across diverse domains, highlighting both technical expertise and problem‑solving skills.
+Data-Science-Projects is a curated portfolio that brings together all projects completed during professional certifications. It showcases practical applications of data science, machine learning, analytics across diverse domains and Power BI visualization, highlighting both technical expertise and problem‑solving skills.
 This repository includes:
-- 📘 Notebooks from data science certifications (IBM)
-- 💼 Personal freelance projects based on real business cases
+- 📘 Notebooks from data science certifications (IBM) and Machine Learning Specialization Andrew Ng
 - 🔎 End‑to‑end workflows: data cleaning, feature engineering, modeling, and evaluation
 - 📊 Visualizations and insights tailored for decision‑making
 
 ## 📂 Repository Structure
 
-This repository is organized into two main sections:
+This repository is organized into Three sections:
 
-- **certifications/**  
-  Contains all projects and notebooks completed during professional certifications, such as the IBM Data Science Professional Certificate and the Machine Learning Specialization by Andrew Ng.  
-  ➝ Focus: foundational concepts, applied exercises, and case studies from structured learning programs.
+- **IBM-Notebooks/**  
+Includes final capstone project SpaceX to predict Falcon 9 first‑stage landing success to assess cost savings and competitiveness. A pdf file presentation 
+- **Machine-Learning-Specialization-Andrew-Ng**
+Includes Notebooks for some case studies
+- **Power BI**
+Includes some case reports
 
-- **Personal freelance-projects/**  
-  Includes real-world projects developed for personal engagements.  
-  ➝ Focus: practical applications of data science and machine learning to solve business problems, with end-to-end workflows (data cleaning, feature engineering, modeling, visualization, and insights).
 
 ---
