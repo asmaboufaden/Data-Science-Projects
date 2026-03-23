@@ -8,12 +8,12 @@ This repository includes:
 
 ## 📂 Repository Structure
 
-- 📂 IBM-Notebooks/
-Includes the final Capstone Project (SpaceX): predicting Falcon 9 first‑stage landing success to evaluate cost savings and competitiveness.
+- 📂 IBM-Notebooks/  
+Includes the final Capstone Project (SpaceX): predicting Falcon 9 first‑stage landing success to evaluate cost savings and competitiveness.  
 → Contains Jupyter notebooks and a PDF presentation summarizing results.
-- 📂 Machine-Learning-Specialization-Andrew-Ng/
-Collection of notebooks from the Machine Learning Specialization (Andrew Ng), showcasing case studies and practical applications of supervised and unsupervised learning.
-- 📂 Power BI/
+- 📂 Machine-Learning-Specialization-Andrew-Ng/  
+Collection of notebooks showcasing case studies and practical applications of supervised and unsupervised learning.
+- 📂 Power BI/  
 Includes business intelligence case reports, with dashboards and visualizations highlighting data insights and decision‑support examples.
 
 
