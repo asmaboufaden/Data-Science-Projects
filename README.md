@@ -13,8 +13,5 @@ Includes the final Capstone Project (SpaceX): predicting Falcon 9 first‑stag
 → Contains Jupyter notebooks and a PDF presentation summarizing results.
 - 📂 Other Notebooks/  
 Collection of notebooks showcasing case studies and practical applications of supervised and unsupervised learning.
-- 📂 Power BI/  
-Includes business intelligence case reports, with dashboards and visualizations highlighting data insights and decision‑support examples.
-
 
 ---
